@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "yaŞ HESABLAMA": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

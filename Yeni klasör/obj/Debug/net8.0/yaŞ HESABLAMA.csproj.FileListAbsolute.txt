@@ -1,0 +1,19 @@
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\yaŞ HESABLAMA.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\yaŞ HESABLAMA.deps.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\yaŞ HESABLAMA.runtimeconfig.json
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\yaŞ HESABLAMA.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\yaŞ HESABLAMA.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.AssemblyInfoInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.AssemblyInfo.cs
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\refint\yaŞ HESABLAMA.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.genruntimeconfig.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\ref\yaŞ HESABLAMA.dll
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\bin\Debug\net8.0\ConsoleApp2.exe.config
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\yaŞ HESABLAMA.csproj.AssemblyReference.cache
+C:\Users\Monster\OneDrive\Masaüstü\yaŞ HESABLAMA\yaŞ HESABLAMA\obj\Debug\net8.0\ya_ HESA.1E718EC3.Up2Date
